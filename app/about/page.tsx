@@ -55,7 +55,7 @@ const About = () => {
       <div className="px-10 pt-20 pb-5">
         <div className="max-w-7xl mx-auto">
           <p className="text-lg font-[500] text-green-600 text-center md:text-start">
-            Exhibiting in East Africa Jim Africa Exhibitions Partnership.
+            Exhibiting in East Africa  CD business solutions Partnership.
           </p>
         </div>
       </div>
@@ -98,14 +98,14 @@ const About = () => {
               with a Partner that is Local and understands the need for Quality
               service, Appreciates the Global Brand Requirements in Exhibitions,
               Understands the Venues and is Culturally sensitive to Client
-              needs. You want to work with Jim Africa Exhibitions in East Africa
+              needs. You want to work with  CD business solutions in East Africa
               Region.
             </p>
             <p className="mt-4 text-lg font-[400] text-gray-600">
               Globalization is a fact of life for virtually every business, and
               no company can afford to ignore the important African markets.
               From Nairobi, Kigali, Entebbe, Arusha, Dar esSalaam ,Addis Abba.
-              Jim Africa Exhibitions brings the correct cultural perspective to
+               CD business solutions brings the correct cultural perspective to
               your trade fair and exhibitions. We help you to connect with your
               market and to increase your market share in Africa.
             </p>
@@ -149,7 +149,7 @@ const About = () => {
 
             <div className="mt-10">
               <p className="mt-4 text-lg font-[400] text-gray-600">
-                Our C.E.O James Njuguna founded Jim Africa Exhibitions a decade
+                Our C.E.O James Njuguna founded  CD business solutions a decade
                 ago after working at the Major Exhibition Centre in Kenya. His
                 BSc in Tourism from Maseno University -Kenya Coupled with Post
                 Graduate Degree in Msc. Entrepreneurship fromJomo Kenyatta
@@ -256,7 +256,7 @@ const About = () => {
             <div className="mt-10">
               
               <p className="mt-4 text-lg font-[400] text-gray-600">
-                Jim Africa Exhibitions mission is to Provide Quality Service that provides our Clients with Infrastructure to grow their Business.
+                 CD business solutions mission is to Provide Quality Service that provides our Clients with Infrastructure to grow their Business.
               </p>
             </div>
           </div>
@@ -302,7 +302,7 @@ const About = () => {
             <div className="mt-10">
               
               <p className="mt-4 text-lg font-[400] text-gray-600">
-                Jim Africa Exhibitions mission is to Provide Quality Service that provides our Clients with Infrastructure to grow their Business.
+                 CD business solutions mission is to Provide Quality Service that provides our Clients with Infrastructure to grow their Business.
               </p>
 
               <p className="mt-4 text-lg font-[400] text-gray-600">

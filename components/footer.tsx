@@ -44,14 +44,14 @@ const Footer = () => {
       <h3 className="text-xl font-bold mb-4 text-white-400 font-[family-name:var(--font-oswald)]">Get in Touch</h3>
       <div className="space-y-3">
         <p className="text-gray-300">
-          <span className="font-semibold text-white">Nairobi, Kenya Office:</span><br />
-          13th Floor View Park Towers, Monrovia Street, Nairobi - Kenya
+          <span className="font-semibold text-white">kigali, Rwanda Office:</span><br />
+          city plaza 5th floor
         </p>
         <p className="text-gray-300">
-          <span className="font-semibold text-white">Tel:</span> +254 723 839 568
+          <span className="font-semibold text-white">Tel:</span> +250 780 964 048
         </p>
         <p className="text-gray-300">
-          <span className="font-semibold text-white">Email:</span> james@jimafrica.com
+          <span className="font-semibold text-white">Email:</span> colin@cdbusiness.com.au
         </p>
       </div>
     </div>
@@ -59,7 +59,7 @@ const Footer = () => {
 
   {/* Bottom Copyright Bar */}
   <div className="max-w-6xl mx-auto mt-8 pt-6 border-t border-gray-800 text-start text-gray-400">
-    <p>© {new Date().getFullYear()} Jim Africa Exhibitions. All rights reserved.</p>
+    <p>© {new Date().getFullYear()}  CD business solutions. All rights reserved.</p>
   </div>
 </footer>
   )

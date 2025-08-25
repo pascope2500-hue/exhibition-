@@ -10,7 +10,7 @@ export default function WhoWeAre() {
           {/* Left Side - Text (takes 4/5 of the space) */}
           <div className="md:col-span-3">
             <p className="font-[family-name:var(--font-oswald)] text-3xl font-[400] text-gray-800 text-center px-6">
-              Jim Africa Exhibitions ~Your Premier Exhibitions Partner in East
+               CD business solutions ~Your Premier Exhibitions Partner in East
               Africa
             </p>
           </div>
@@ -39,7 +39,7 @@ export default function WhoWeAre() {
               {/* Contact Info */}
               <div>
                 <a href="tel:+254 723 839 568"><p className="text-md font-semibold text-white-100">+254 723 839 568</p></a> 
-                <a href="mailto:james@jimafrica.com"><p className="text-xs">james@jimafrica.com</p></a>
+                <a href="mailto:colin@cdbusiness.com.au"><p className="text-xs">colin@cdbusiness.com.au</p></a>
               </div>
             </div>
           </div>
@@ -61,7 +61,7 @@ export default function WhoWeAre() {
                   About Us
                 </h3>
                 <p className="text-gray-600 leading-relaxed mb-6">
-                  Jim Africa Exhibitions is one of the leading exhibition and
+                   CD business solutions is one of the leading exhibition and
                   events stand contractors in East Africa and Africa at large
                   with an experience of over 16 years in the industry; creating
                   beautiful, functional and attractive exhibition stands /

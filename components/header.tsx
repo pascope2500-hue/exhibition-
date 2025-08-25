@@ -13,11 +13,11 @@ export default function Header() {
         <div className="max-w-7xl mx-auto flex justify-end items-center gap-6 text-sm">
           <div className="flex items-center gap-2">
             <Phone className="w-4 h-4" />
-            <span>+254 723 839 568</span>
+            <span>+250 780 964 048</span>
           </div>
           <div className="flex items-center gap-2">
             <Mail className="w-4 h-4" />
-            <span>james@jimafrica.com</span>
+            <span>colin@cdbusiness.com.au</span>
           </div>
         </div>
       </div>

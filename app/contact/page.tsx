@@ -50,7 +50,7 @@ export default function Testimonial() {
           <div className="mb-6">
             <div className="max-w-7xl mx-auto mt-20">
               <h1 className="font-[family-name:var(--font-oswald)] text-xl md:text-4xl font-[400] text-gray-800 text-start md:text-start mb-7">
-                Jim Africa Exhibitions ~Exhibitions Partner in East Africa
+                 CD business solutions ~Exhibitions Partner in East Africa
               </h1>
               <p className="text-lg text-grey-600">
                We help you to connect with your market & increase your market share in Africa.
@@ -146,10 +146,10 @@ export default function Testimonial() {
               123 Street Name, Kigali, Rwanda
             </p>
             <p className="text-gray-600">
-              Phone: +250 123 456 789
+              Phone: +250 780 964 048
             </p>
             <p className="text-gray-600">
-              Email: info@jimaafrica.com
+              Email: colin@cdbusiness.com.au
             </p>
           </div>
         </div>

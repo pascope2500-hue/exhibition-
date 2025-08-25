@@ -14,7 +14,7 @@ export default function Hero() {
               <img src="/jim-africa-logo.png" alt="Jim Africa Shadow" className="opacity-30 filter blur-sm" />
             </div>
             {/* Main logo */}
-            <img src="/jim-africa-exhibitions-logo.png" alt="Jim Africa Exhibitions" className="relative z-10" />
+            <img src="/jim-africa-exhibitions-logo.png" alt=" CD business solutions" className="relative z-10" />
           </div>
         </div>
 
