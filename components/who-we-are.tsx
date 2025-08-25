@@ -38,7 +38,7 @@ export default function WhoWeAre() {
 
               {/* Contact Info */}
               <div>
-                <a href="tel:+254 723 839 568"><p className="text-md font-semibold text-white-100">+254 723 839 568</p></a> 
+                <a href="tel:+250780964048"><p className="text-md font-semibold text-white-100">++250 780 964 048</p></a> 
                 <a href="mailto:colin@cdbusiness.com.au"><p className="text-xs">colin@cdbusiness.com.au</p></a>
               </div>
             </div>
